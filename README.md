@@ -1,7 +1,7 @@
 
 #  Desafio Stage 02 -  Formulario Intermediario 
 
-![preview](./.github/desafio- formulario - intermediario.png)
+![preview](./.github/desafio-formulario.png.png)
 
 
 >Programa Explorer da Rocketseat

@@ -4,7 +4,7 @@
 ![preview](./.github/mentoria.png)
 
 
-> Trilha Explorer 
+>Programa Explorer da Rocketseat
 
 Projeto construido Como desafio no stage 02 
 

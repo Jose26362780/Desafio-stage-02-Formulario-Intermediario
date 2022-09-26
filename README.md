@@ -1,7 +1,7 @@
 
 #  Desafio Stage 02 -  Formulario Intermediario 
 
-![preview](./.github/mentoria.png)
+![preview](./.github/desafio- formulario - intermediario.png)
 
 
 > Trilha Explorer 

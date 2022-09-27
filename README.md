@@ -9,7 +9,7 @@
 Projeto construido Como desafio no stage 02 
 
 
-👉🏼[Clique aqui para accessar](https://desafio-stage-02-formulario-int.netlify.app/)
+👉🏼[Clique aqui para accessar](https://jose26362780.github.io/Desafio-stage-02-Formulario-Intermediario/)
 
 
 
